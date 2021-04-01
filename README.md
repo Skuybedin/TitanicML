@@ -1,3 +1,5 @@
 # Titanic
 
-Мой первый опыт на Kaggle в соревновании Titanic
+Топ 3% в соревновании Kaggle - Titanic
+
+Kaggle - https://www.kaggle.com/skuybedinnikita
